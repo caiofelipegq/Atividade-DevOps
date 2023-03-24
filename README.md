@@ -2,8 +2,6 @@
  Projeto utilizando API do Pokemon com Javascript, no qual podemos pesquisar o nome ou o numero do pokemon e ver o nome, o tipo e imagens do pokemon escolhido
 ##Status
 > Finalizado
-> 
-> <a href="https://github.com/IsaacGSS/Pokedex/blob/main/MD/Pokedex.md">👌 Pokedex.md</a>
 
 ## Funcionalidades
 
